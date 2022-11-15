@@ -15,7 +15,7 @@
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "bootstrap": "^4.4.1",
-    "next": "^9.3.5",
+    "next": "^13.0.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-toastify": "^5.5.0"
